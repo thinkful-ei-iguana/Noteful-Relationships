@@ -1,4 +1,5 @@
 INSERT INTO folders ( folder_name, note )
+
 VALUES
   (
     'Example Folder 1', 'I AM 1'
